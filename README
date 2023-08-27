@@ -1,0 +1,13 @@
+Hi, nice to see you!
+
+This code is for searching words in the passed text.
+
+#To use this code make following steps:
+
+1. To analyze text pass it to the "comment" variable (in the beginning of the code)
+2. Set the word to the "word" variable (in the end of the code) and execute the code. 
+
+#How does this code work:
+
+As a result, the passed text will be formatted, a dictionary will be created using functions and a for loop,
+iteration will occur and the result will be displayed: it will indicate how many times the search word occurs in the text.
